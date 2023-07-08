@@ -1,0 +1,4 @@
+name: domee
+version: '${project.version}'
+main: eu.eddo.domee.Domee
+api-version: 1.20
